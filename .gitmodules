@@ -1,0 +1,3 @@
+[submodule "node-nethernet"]
+	path = node-nethernet
+	url = https://github.com/PrismarineJS/node-nethernet.git
