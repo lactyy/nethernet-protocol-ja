@@ -163,7 +163,7 @@ type ServerData struct {
     EditorWorld    bool
     Hardcore       bool
     TransportLayer uint8
-	Unknown        uint8
+    ConnectionType uint8
 }
 ```
 
